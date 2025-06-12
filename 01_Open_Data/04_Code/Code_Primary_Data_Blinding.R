@@ -69,6 +69,7 @@ library(tidyselect)      # For selecting Variables
 library(tibble)          # For data-frames.
 library(writexl)         # For creating Excel datasets.
 library(sjlabelled)      # For creating labels that describe the variable names.
+library(dplyr)
 
 rm(list = ls())
 

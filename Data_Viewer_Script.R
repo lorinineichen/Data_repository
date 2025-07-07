@@ -46,6 +46,6 @@ View(wheat_data)
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\####
 
 # Load labelled secondary dataset
-secondary_data <- readRDS("01_Open_Data/03_Secondary_Data/Secondary_Data.rds")
+secondary_data <- readRDS("01_Open_Data/03_Linked_Secondary_Data/Linked_Secondary_Data.rds")
 
 View(secondary_data)
